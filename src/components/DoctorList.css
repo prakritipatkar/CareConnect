@@ -1,0 +1,33 @@
+.doctor-list-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.search-bar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.doctor-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px 0;
+    list-style-type: none;
+}
+
+.doctor-info {
+    text-align: left;
+}
+
+.doctor-availability {
+    margin-top: 10px;
+}
+
+.chatbot-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
